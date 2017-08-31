@@ -4,7 +4,7 @@
 	"repository": "https://github.com/tommymessbauer/elm-starter.git",
 	"license": "MIT",
 	"source-directories": [ "src/elm" ],
-	"exposed-modules": [],
+	"exposed-modules": [ "Hello" ],
 	"dependencies": {
 		"elm-lang/core": "5.0.0 <= v < 6.0.0",
 		"elm-lang/html": "2.0.0 <= v < 3.0.0"
