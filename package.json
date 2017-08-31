@@ -1,6 +1,6 @@
 {
 	"name": "elm-starter",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Starter for reusing elm functions",
 	"main": "index.js",
 	"repository": "git@github.com:tommymessbauer/elm-starter.git",
